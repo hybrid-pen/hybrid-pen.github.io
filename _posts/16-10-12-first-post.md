@@ -5,4 +5,4 @@ date: 2016-10-12
 comments: true
 ---
 
-Pousser la chansonnette.
+Ceci n'est pas la fin du monde.
